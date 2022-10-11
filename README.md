@@ -2,9 +2,7 @@
 
  <div>
    <a href="https://github.com/brunogusmao1609">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=
-brunogusmao1609
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=brunogusmao1609&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogusmao1609&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -16,7 +14,7 @@ brunogusmao1609
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para gente interagir, me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.youtube.com/c/brunogusmaooficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the badge&logo=youtube&logoColor=white" target="_blank"></a>
